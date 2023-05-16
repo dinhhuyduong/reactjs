@@ -1,1 +1,1 @@
-# reactjs
+This is my first ReactJS project. I've learned from Internet and try to code this small app
